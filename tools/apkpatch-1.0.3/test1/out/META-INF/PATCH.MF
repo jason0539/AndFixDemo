@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Patch-Name: fix-release
+To-File: bug-release.apk
+Created-Time: 1 Sep 2016 10:30:31 GMT
+Created-By: 1.0 (ApkPatch)
+Patch-Classes: com.euler.andfix.MainActivity_CF
+From-File: fix-release.apk
+

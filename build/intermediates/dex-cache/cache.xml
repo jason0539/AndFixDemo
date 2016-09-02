@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_f28bb299b2638d4941402a42abf86140141fb983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_28398c8370d32a01e721145c6b443a2a4fba8670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_26a5a17de3c85bb26fd23b56a6e40833fd5c3a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/internal_impl-24.1.1_d6db38bc5fbc44db954997478b7222e96d05b20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.1.1_f28bb299b2638d4941402a42abf86140141fb983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.1.1_26a5a17de3c85bb26fd23b56a6e40833fd5c3a51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_d6db38bc5fbc44db954997478b7222e96d05b20d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/support-annotations-24.1.1_28398c8370d32a01e721145c6b443a2a4fba8670.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_d84a3e71c9d764182367f8b64889d5a7e9c15317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/AndFixDemo/andfix/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="ed8d59b0195c6fc2e3525c0b0eb3004f70828ff1">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/AndFixDemo-andfix-unspecified_6d6427f4e016ed2cc6249b519685d1d9601d6c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.1.1_13d33855e47861525a4b357787cf366dce61a6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.1.1_d84a3e71c9d764182367f8b64889d5a7e9c15317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_13d33855e47861525a4b357787cf366dce61a6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/exploded-aar/AndFixDemo/andfix/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c521e53b72464e0cda1fffc31ff1c1b1ee78d9d">
+        <dex dex="/Users/liuzhenhui/Finger/work/AndFixDemo/app/build/intermediates/pre-dexed/release/AndFixDemo-andfix-unspecified_6d6427f4e016ed2cc6249b519685d1d9601d6c69.jar" />
+    </item>
+
+</items>
